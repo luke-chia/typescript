@@ -14,7 +14,7 @@ let password:string = "1Perr@";
 if(password.match(passwordRegExp)){
     console.log("La contraseña es válida");
 }else{
-    console.log("La contraseña no es válida");
+    console.log("La contraseña / password no es válida");
 };
 
 

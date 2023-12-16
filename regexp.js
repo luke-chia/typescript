@@ -17,3 +17,4 @@ else {
     console.log("La contraseña no es válida");
 }
 ;
+//([0-9])+([A-Z])+([-_@])+
